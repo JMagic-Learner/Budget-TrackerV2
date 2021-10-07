@@ -1,7 +1,9 @@
 # Budget Tracker
 ![NPM](https://img.shields.io/npm/l/inquirer)
 
-[LIVE DEPLOY](https://JMagic-Learner.github.io/Budget Tracker)
+
+HEROKU DEPLOY BELOW
+[LIVE DEPLOY](https://tranquil-ravine-87553.herokuapp.com/)
 ## Description
 Hello, my name is Jason Ma. This application is called Budget Tracker.
               
